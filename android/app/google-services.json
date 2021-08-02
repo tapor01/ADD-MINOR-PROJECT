@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542181739206",
+    "project_id": "angelic-backup-306118",
+    "storage_bucket": "angelic-backup-306118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542181739206:android:4f4ddf896c043f936be5c7",
+        "android_client_info": {
+          "package_name": "com.example.project_one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542181739206-b5400p0r46ko5tierd064o63ahpt7jrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdeo3nHl-4vXldQxiVjTWOmXFhJ4MH2k8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542181739206-b5400p0r46ko5tierd064o63ahpt7jrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
